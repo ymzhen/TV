@@ -1,0 +1,6 @@
+#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c6d9bd7d0.jpg",CCTV5 50FPS
+http://yfsl.vsd.gehua.net.cn/live/CCTV5HD_6000.m3u8
+#EXTINF:-1 group-title="CCTV5" tvg-logo="https://www.hualigs.cn/image/6153c6d9bd7d0.jpg",CCTV5
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="CCTV5" tvg-logo="https://www.hualigs.cn/image/6153c6d9bd7d0.jpg",CCTV5
+http://39.134.115.163:8080/TVOD/88888910/224/3221225648/index.m3u8
