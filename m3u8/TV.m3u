@@ -6,5 +6,13 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 http://39.134.115.163:8080/TVOD/88888910/224/3221225648/index.m3u8
 #EXTINF:-1 group-title="CCTV16 4K 25FPS" tvg-logo="https://www.hualigs.cn/image/637f23b8d3701.jpg",CCTV16 4K 25FPS
 http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 group-title="CCTV16 4K 25FPS" tvg-logo="https://www.hualigs.cn/image/637f23b8d3701.jpg",CCTV16 4K 25FPS
+https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u
 #EXTINF:-1 group-title="CCTV16 50FPS" tvg-logo="https://www.hualigs.cn/image/637f23b8d3701.jpg",CCTV16 50FPS
 http://yfsl.vsd.gehua.net.cn/live/CCTV16HD_6000.m3u8
+#EXTINF:-1 group-title="咪咕4K HLG 50FPS" tvg-logo="https://www.hualigs.cn/image/637f2e7fa19f1.jpg",咪咕4K HLG 50FPS
+http://117.136.156.3/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="咪咕4K HLG 50FPS" tvg-logo="https://www.hualigs.cn/image/637f2e7fa19f1.jpg",咪咕4K HLG 50FPS
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1 group-title="抖音4K 50FPS" tvg-logo="https://www.hualigs.cn/image/637f23b8d3701.jpg",抖音4K 50FPS
+https://pull-flv-spe-l1.douyincdn.com/fantasy/stream-7168813858243971870_spuhd.flv?_neptune_token=MIGnBAwdUQjqEoM89RIiEfMEgYS4trMVkd8wmNrb5rLLl5FFYG6EwJtdl4xMxociZqiMCPqnsAgvbT2FOesT5kDqArUfsdpETAT9jgedEplQopqEvnu88z9gJ_fVTw5HcEVDn1WXD21nuQtIl6V-GvSHrFNBj7rSASZP-pVyfKasMzZT19rh6X37T8R8cxUr-r2qwTeeiIoEEIcEmcGIl0ZGybQyKeDlZlA&keeptime=00015180&wsSecret=3511986f99728aa07a314ff31638849c&wsTime=637cc477&abr_pts=-1800
